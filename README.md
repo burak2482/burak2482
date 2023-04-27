@@ -6,7 +6,7 @@ I'm an indie full-stack web developer and content creator building my version of
 
 Actively looking to collaborate on new interesting projects.
 
-- 📫 How to reach me? email: burakdurmusogluu@gmail.com
+- 📫 How to reach me? my e-mail: burakdurmusogluu@gmail.com
 
 ### 🧰 Languages and Tools
 
