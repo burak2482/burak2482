@@ -38,5 +38,5 @@ Actively looking to collaborate on new interesting projects.
 #
 
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Burak's Coding Journey</h3></summary>
    I started my coding journey as a naive management information systems student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself blockchain-development with a dream to build my own project.
