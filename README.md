@@ -27,6 +27,8 @@ Actively looking to collaborate on new interesting projects.
 
 
 
+
+
 ### 📊 Stats
 
 ![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burak2482&show_icons=true&theme=gruvbox)
