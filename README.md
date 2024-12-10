@@ -1,4 +1,4 @@
-![]([http://url/to/img.png](https://imgur.com/a/jQOzf17))
+[![](https://imgur.com/a/jQOzf17)]
 
 
 ### Languages
