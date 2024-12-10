@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js" />
   <img src="https://img.shields.io/badge/-React-000?&logo=React" />
   <img src="https://img.shields.io/badge/-Express.js-000?&logo=Express" />
+  <img src="https://img.shields.io/badge/-Ubuntu-000?&logo=Express" />
 </div>
 
 <br>
