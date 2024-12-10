@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/-Express.js-000?&logo=Express" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 40px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=burak2482&theme=dark&show_icons=true&layout=compact&langs_count=7" />
 </div>
