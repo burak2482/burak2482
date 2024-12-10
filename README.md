@@ -1,4 +1,4 @@
-[![](https://imgur.com/a/jQOzf17)]
+![](https://i.imgur.com/r8zBS9k.png)
 
 
 ### Languages
