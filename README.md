@@ -5,7 +5,7 @@
   <h3>Languages</h3>
   <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
   <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB" />
 </div>
 
